@@ -1,4 +1,4 @@
-# LIQE-SR
+# SR-IQA-SMC25
 
 ## Pre-trained weights
 
