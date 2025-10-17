@@ -13,7 +13,6 @@ import torch.nn.functional as F
 from itertools import product
 import os
 import pickle
-from weight_methods import WeightMethods
 
 ##############################textual template####################################
 
